@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Pranami44
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Android Development
-- 📫 How to reach me ... Ping me https://www.linkedin.com/in/pranami-hazarika-33a496176/
+- 👋 Hi, I’m @Pranami44  
+- 👀 I’m passionate about building scalable software systems  
+- 🌱 I’m currently learning AI, LLMs, and advanced system design  
+- 💻 Ex-Amazon SDE, now exploring full-stack + AI projects  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/pranami-hazarika)  
+
 
 <!---
 Pranami44/Pranami44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
